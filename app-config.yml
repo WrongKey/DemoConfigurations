@@ -2,3 +2,6 @@ database:
   url: localhost:5432
   username: postgres
   password: postgres
+aws:
+  address: somehost
+  username: someuser
