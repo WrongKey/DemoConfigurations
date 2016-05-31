@@ -1,1 +1,5 @@
 foo: bar
+db:
+  url: localhost:5432
+  username: postgres
+  password: postgres
